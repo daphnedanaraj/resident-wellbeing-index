@@ -94,8 +94,8 @@ Python was used to:
 - Apply dimension-specific weights  
 - Output a final RWI   
 
-- 📁 [View the script](./data_processing/rwi_calculation.py)  
-- 📄 [Sample data input](./data_processing/sample_input_data.csv)
+📁 [View the script](./data_processing/rwi_calculation.py)  
+📄 [Sample data input](./data_processing/sample_input_data.csv)
 
 ---
 
