@@ -92,7 +92,7 @@ Python was used to:
 - Reverse-score negative wellbeing questions  
 - Normalize Likert scale responses (1–5)  
 - Apply dimension-specific weights  
-- Output a final RWI per resident  
+- Output a final RWI   
 
 - 📁 [View the script](./data_processing/rwi_calculation.py)  
 - 📄 [Sample data input](./data_processing/sample_input_data.csv)
@@ -116,13 +116,6 @@ Python was used to:
 | **GitHub**        | Documentation and project showcase              |
 | **CSV + Excel**   | Data formatting and transfer                    |
 
----
-
-## 👤 About the Project Creator
-
-This project was created as a strategic and technical demonstration aligned with the **Assistant Manager, Innovation & Analytics** role at **Taylor’s Education Group**. It integrates tools, workflows, and design thinking to deliver insights that improve the **resident experience through innovation, analytics, and operational efficiency**.
-
-> Feel free to [connect with me on LinkedIn](#) or [reach out via email](mailto:your.email@example.com) if you'd like to learn more.
 
 ---
 
@@ -130,4 +123,10 @@ This project was created as a strategic and technical demonstration aligned with
 
 - 🔁 Export to SharePoint or MS Teams with Power Automate  
 - 📡 Integration with Microsoft Dataverse for real-time RWI updates  
-- 🤖 AI-based insight generator (e.g., Copilot summary per residence hall) 
+- 🤖 AI-based insight generator (e.g., Copilot summary per residence hall)
+
+---
+
+## Contact
+For questions or collaboration, reach out at [daphne.danaraj@gmail.com].
+
