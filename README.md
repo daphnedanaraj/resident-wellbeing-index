@@ -70,10 +70,11 @@ Live surveys used to collect wellness data at different phases of the semester:
 
 ## 📊 Power BI Dashboard
 
-Due to publishing restrictions, the Power BI dashboard is not public. However, you can still explore it through:
+Due to publishing restrictions, the Power BI dashboard is not public. However, you can still explore it:
+![Dashboard Preview](./powerbi/dashboard_preview.png)
 
-- 📄 [View Dashboard Summary PDF](./powerbi/dashboard_summary.pdf)
-- 🖼️ ![Dashboard Preview](./powerbi/dashboard_preview.png)
+[View Dashboard Summary PDF](./powerbi/dashboard_summary.pdf)
+ 
 
 ### 🔍 Dashboard Visuals Include:
 
