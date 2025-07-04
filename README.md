@@ -48,6 +48,7 @@ dimension_weights = {
     "Resource Awareness": 15,
     "Academic Resilience": 15
 }
+```
 🔁 Reverse-coded items (e.g., “I feel burnt out”) are accounted for in Python using inverted scoring logic.
 
 ---
