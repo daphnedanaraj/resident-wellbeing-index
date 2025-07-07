@@ -1,12 +1,12 @@
-# 🏡 Resident Wellness Index (RWI) – Data-Driven Framework for University Housing
+# 🏡 Resident Wellbeing Index (RWI) – Data-Driven Framework for University Housing
 
-This project showcases a structured, analytics-driven system to assess and improve **resident wellbeing** in a university residence hall setting. It uses live survey data collected across four phases of the semester and visualizes insights via a Power BI dashboard. Built as a portfolio project aligned with the **Assistant Manager, Innovation & Analytics** role at Taylor’s Education Group.
+This project showcases a structured, analytics-driven system to assess and improve **resident wellbeing** in a university residence hall setting. It uses live survey data collected across four phases of the semester and visualizes insights via a Power BI dashboard. 
 
 ---
 
 ## 🎯 Objective
 
-To develop a lightweight, scalable **Resident Wellness Index (RWI)** using:
+To develop a lightweight, scalable **Resident Wellbeing Index (RWI)** using:
 - Microsoft Forms (survey data collection)
 - Python (scoring and dimension weighting)
 - Power BI (interactive dashboard)
@@ -35,7 +35,7 @@ The RWI helps residence teams:
 
 ---
 
-## 🧠 Resident Wellness Index (RWI) Weighting
+## 🧠 Resident Wellbeing Index (RWI) Weighting
 
 The RWI score is calculated based on the average scores of each dimension, weighted to reflect its relative impact on wellbeing:
 
